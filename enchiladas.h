@@ -1,5 +1,5 @@
-#ifndef enchiladas_h_
-#define enchiladas_h_
+#ifndef ENCHILADAS_H_
+#define ENCHILADAS_H_
 
 #include <iomanip>
 
