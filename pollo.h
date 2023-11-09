@@ -1,5 +1,5 @@
-#ifndef pollo_h_
-#define pollo_h_
+#ifndef POLLO_H_
+#define POLLO_H_
 
 #include <iomanip>
 
